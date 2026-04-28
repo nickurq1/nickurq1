@@ -17,7 +17,7 @@ Aspiring cybersecurity professional with a strong interest in threat detection a
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | <a href="https://shuffler.io/workflows/a58f7005-bdb2-4c0e-b763-3507c1446b7d">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | <a href="https://github.com/nickurq1/SOC-Automation/tree/main">SOC Automation Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -53,5 +53,5 @@ Aspiring cybersecurity professional with a strong interest in threat detection a
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/nickurq1/SOC-Automation/tree/main">SOC Automation Lab</a>
+
